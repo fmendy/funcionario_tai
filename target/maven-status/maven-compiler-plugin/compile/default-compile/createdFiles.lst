@@ -1,0 +1,13 @@
+com\funcionario\tai\service\ComunidadAutonomaService.class
+com\funcionario\tai\repository\ComunidadAutonomaRepository.class
+com\funcionario\tai\model\specifications\ComunidadAutonomaSpecifications.class
+com\funcionario\tai\model\ComunidadAutonomaForm.class
+com\funcionario\tai\repository\ProvinciaRepository.class
+com\funcionario\tai\utility\ComunidadAutonomaUtil.class
+com\funcionario\tai\entity\Provincia.class
+com\funcionario\tai\controller\ComunidadAutonomaController.class
+com\funcionario\tai\entity\ComunidadAutonoma.class
+com\funcionario\tai\service\impl\ComunidadAutonomaServiceImpl.class
+com\funcionario\tai\WebSecurityConfig.class
+com\funcionario\tai\model\filter\ComunidadAutonomaFilter.class
+com\funcionario\tai\TaiApplication.class

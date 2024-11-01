@@ -1,0 +1,13 @@
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\controller\ComunidadAutonomaController.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\entity\ComunidadAutonoma.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\entity\Provincia.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\model\ComunidadAutonomaForm.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\model\filter\ComunidadAutonomaFilter.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\model\specifications\ComunidadAutonomaSpecifications.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\repository\ComunidadAutonomaRepository.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\repository\ProvinciaRepository.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\service\ComunidadAutonomaService.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\service\impl\ComunidadAutonomaServiceImpl.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\TaiApplication.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\utility\ComunidadAutonomaUtil.java
+C:\Users\alvaro\git\funcionario_tai\src\main\java\com\funcionario\tai\WebSecurityConfig.java
